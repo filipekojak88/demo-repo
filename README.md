@@ -21,6 +21,8 @@ I sed [openincolab.com](https://openincolab.com) to generate the following click
 It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.google.com)
 
 <a target="_blank" href="https://colab.research.google.com/github/filipekojak88/demo-repo/blob/main/fib.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 How users can get started with the project...
