@@ -1,3 +1,37 @@
 # Demonstration Repository
 
 A demonstration repository to learn from Principles of Data Analytics class.
+
+This README has been written with [Github's documentation on READMEs] (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
+
+You should refer to that documentation for more information on writting an appropriate README for visitors to your repository.
+
+
+## About This Project
+
+This project is about...
+
+
+## Use of this project
+
+Why this project is useful...
+
+
+## Get Started 
+
+How users can get started with the project...
+
+
+## Get Help
+
+Where users can get help with your project...
+
+
+## Contribute
+
+Who maintains and contributes to the project...
+
+
+## Author
+
+About me...
