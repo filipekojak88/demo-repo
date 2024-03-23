@@ -17,6 +17,12 @@ Why this project is useful...
 
 ## Get Started 
 
+I sed [openincolab.com](https://openincolab.com) to generate the following clickable link.
+It opens the 'fib.ipynb' notebook in [Google Colab](https://colab.research.google.com)
+
+<a target="_blank" href="https://colab.research.google.com/github/filipekojak88/demo-repo/blob/main/fib.ipynb">
+
+
 How users can get started with the project...
 
 
